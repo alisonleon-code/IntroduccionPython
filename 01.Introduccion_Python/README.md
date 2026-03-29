@@ -12,11 +12,3 @@ Para que un programa funcione, debe respetar estos niveles:
     * Alto nivel (fácil de leer).
     * Interpretado (se ejecuta línea a línea).
     * Orientado a Objetos (usa modelos del mundo real).
-
-### 🎨 Código de colores en IDLE
-Es importante reconocerlos para encontrar errores rápido:
-* <span style="color:orange">Naranja</span>: Palabras reservadas.
-* <span style="color:green">Verde</span>: Cadenas de texto (Strings).
-* <span style="color:blue">Azul</span>: Resultados de salida.
-* <span style="color:red">Rojo</span>: Mensajes de error.
-* <span style="color:purple">Púrpura</span>: Funciones integradas.
